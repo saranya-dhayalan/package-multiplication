@@ -1,0 +1,22 @@
+{
+  "name": "package-multiplication",
+  "version": "1.0.0",
+  "description": "multiplication",
+  "main": "index.js",
+  "scripts": {
+    "test": "multiplication"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saranya-dhayalan/package-multiplication.git"
+  },
+  "keywords": [
+    "mul"
+  ],
+  "author": "saranya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saranya-dhayalan/package-multiplication/issues"
+  },
+  "homepage": "https://github.com/saranya-dhayalan/package-multiplication#readme"
+}
